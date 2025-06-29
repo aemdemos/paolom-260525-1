@@ -1,0 +1,26 @@
+{
+  "originUrl": "https://fill-ignite-93883447.figma.site",
+  "lastCrawled": "https://fill-ignite-93883447.figma.site/",
+  "urls": [
+    {
+      "url": "https://fill-ignite-93883447.figma.site/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "2ef36fe2152e07246f88e3d90e049c65cf33bc47"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
